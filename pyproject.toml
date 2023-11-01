@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "array-cache"
-version = "1.0.0"
+version = "1.0.1"
 description = "Cache the current index of you array"
 readme = "README.md"
 authors = [{ name = "n4n5", email = "its.just.n4n5@gmail.com" }]
