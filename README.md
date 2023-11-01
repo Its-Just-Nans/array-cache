@@ -1,5 +1,11 @@
 # array-cache
 
+## Installation
+
+```sh
+python -m pip install --upgrade array-cache
+```
+
 ## Usage
 
 ```python
