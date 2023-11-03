@@ -1,5 +1,8 @@
 # array-cache
 
+- [PyPi page](https://pypi.org/project/array-cache/)
+- [PyPi stats](https://pypistats.org/packages/array-cache)
+
 ## Installation
 
 ```sh
